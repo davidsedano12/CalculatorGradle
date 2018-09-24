@@ -1,0 +1,7 @@
+Calculator with AddStudent Implemented:
+
+to execute images:
+
+docker run dsedano12/calculatorgradle (only calculator)
+
+docker run dsedano12/addstudentgradle (with addstudent())
